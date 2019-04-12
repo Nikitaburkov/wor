@@ -1,0 +1,46 @@
+2019-04-11T00:38:51+00:00 CRITICAL syntax error, unexpected '<', expecting end of file в W:\domains\wor\wp-content\themes\wor-shop\functions.php на строке 96
+
+2019-04-11T00:39:53+00:00 CRITICAL syntax error, unexpected '<', expecting end of file в W:\domains\wor\wp-content\themes\wor-shop\functions.php на строке 96
+
+2019-04-11T00:40:01+00:00 CRITICAL Uncaught Error: Call to undefined function wc_product_class() in W:\domains\wor\wp-content\themes\wor-shop\functions.php:128
+Stack trace:
+#0 W:\domains\wor\wp-settings.php(479): include()
+#1 W:\domains\wor\wp-config.php(89): require_once('W:\\domains\\wor\\...')
+#2 W:\domains\wor\wp-load.php(37): require_once('W:\\domains\\wor\\...')
+#3 W:\domains\wor\wp-blog-header.php(13): require_once('W:\\domains\\wor\\...')
+#4 W:\domains\wor\index.php(17): require('W:\\domains\\wor\\...')
+#5 {main}
+  thrown в W:\domains\wor\wp-content\themes\wor-shop\functions.php на строке 128
+
+2019-04-11T01:01:46+00:00 CRITICAL syntax error, unexpected ')' в W:\domains\wor\wp-content\themes\wor-shop\functions.php на строке 94
+
+2019-04-11T01:01:46+00:00 CRITICAL syntax error, unexpected ')' в W:\domains\wor\wp-content\themes\wor-shop\functions.php на строке 94
+
+2019-04-11T01:02:23+00:00 CRITICAL syntax error, unexpected ')' в W:\domains\wor\wp-content\themes\wor-shop\functions.php на строке 94
+
+2019-04-11T14:38:36+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) в W:\domains\wor\wp-content\themes\wor-shop\footer.php на строке 39
+
+2019-04-11T14:38:36+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) в W:\domains\wor\wp-content\themes\wor-shop\footer.php на строке 39
+
+2019-04-11T14:38:39+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) в W:\domains\wor\wp-content\themes\wor-shop\footer.php на строке 39
+
+2019-04-11T14:38:39+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) в W:\domains\wor\wp-content\themes\wor-shop\footer.php на строке 39
+
+2019-04-11T14:51:53+00:00 CRITICAL syntax error, unexpected '<', expecting end of file в W:\domains\wor\wp-content\themes\wor-shop\footer.php на строке 13
+
+2019-04-11T14:51:53+00:00 CRITICAL syntax error, unexpected '<', expecting end of file в W:\domains\wor\wp-content\themes\wor-shop\footer.php на строке 13
+
+2019-04-11T14:52:18+00:00 CRITICAL syntax error, unexpected '<', expecting end of file в W:\domains\wor\wp-content\themes\wor-shop\footer.php на строке 13
+
+2019-04-11T23:13:53+00:00 CRITICAL require_once(): Failed opening required 'W:\domains\wor\wp-content\themes\wor-shop/sample/sample-config.php' (include_path='.;w:/modules/php/PHP-7.2-x64;w:/modules/php/PHP-7.2-x64/PEAR/pear') в W:\domains\wor\wp-content\themes\wor-shop\functions.php на строке 117
+
+2019-04-11T23:14:02+00:00 CRITICAL require_once(): Failed opening required 'W:\domains\wor\wp-content\themes\wor-shop/sample/sample-config.php' (include_path='.;w:/modules/php/PHP-7.2-x64;w:/modules/php/PHP-7.2-x64/PEAR/pear') в W:\domains\wor\wp-content\themes\wor-shop\functions.php на строке 117
+
+2019-04-11T23:14:03+00:00 CRITICAL require_once(): Failed opening required 'W:\domains\wor\wp-content\themes\wor-shop/sample/sample-config.php' (include_path='.;w:/modules/php/PHP-7.2-x64;w:/modules/php/PHP-7.2-x64/PEAR/pear') в W:\domains\wor\wp-content\themes\wor-shop\functions.php на строке 117
+
+2019-04-11T23:14:08+00:00 CRITICAL require_once(): Failed opening required 'W:\domains\wor\wp-content\themes\wor-shop/sample/sample-config.php' (include_path='.;w:/modules/php/PHP-7.2-x64;w:/modules/php/PHP-7.2-x64/PEAR/pear') в W:\domains\wor\wp-content\themes\wor-shop\functions.php на строке 117
+
+2019-04-11T23:45:42+00:00 CRITICAL syntax error, unexpected ';', expecting ')' в W:\domains\wor\wp-content\themes\wor-shop\sample\sample-config.php на строке 455
+
+2019-04-11T23:45:48+00:00 CRITICAL syntax error, unexpected ';', expecting ')' в W:\domains\wor\wp-content\themes\wor-shop\sample\sample-config.php на строке 455
+
